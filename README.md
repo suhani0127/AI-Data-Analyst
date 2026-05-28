@@ -15,3 +15,7 @@ SQLite Execution
 Visualization
 ↓
 Business Insights
+
+## 🚀 Live Demo
+
+[Click Here to Open App](https://yourproject.streamlit.app)
