@@ -14,7 +14,7 @@ st.markdown("Analyse sales performance interactively")
 
 total_sales = round(df["Sales"].sum())
 
-total_orders = len(df)
+total_orders = len(df)  
 
 total_profit = round(df["Profit"].sum())
 
