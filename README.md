@@ -18,4 +18,4 @@ Business Insights
 
 ## 🚀 Live Demo
 
-[Click Here to Open App](https://yourproject.streamlit.app)
+[Click Here to Open App](https://ai-data-analyst-vctizpf57fptvpwukedp6r.streamlit.app/)
